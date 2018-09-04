@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: b74fe06d1e7bd604f9ea2cbc8b0a75a0
+timeCreated: 1529098161
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Baskerville
+  fontNames:
+  - Baskerville
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 20b2d451326c74243ae308fa62760073, type: 3}
+  - {fileID: 12800000, guid: 52c097f1f5377dd4c9f79b36982e2497, type: 3}
+  - {fileID: 12800000, guid: 455ae186a17b39f4681a055d6a7b4218, type: 3}
+  - {fileID: 12800000, guid: b1a5d22b4a4661d4aab315bf94f0b76c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

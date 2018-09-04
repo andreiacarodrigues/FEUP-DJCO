@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 71fdbe167dc9ad84d90705f79e1afd07
+timeCreated: 1529258024
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kreon
+  fontNames:
+  - Kreon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 187862dadc4000e4aa7d2c9ff9b79cf6, type: 3}
+  - {fileID: 12800000, guid: 40f530bcd07af974a82747de6be9caed, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

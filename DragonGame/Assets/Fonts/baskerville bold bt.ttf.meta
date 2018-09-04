@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: eae4eb3bdf49f2f4b835cf47d46cc2bf
+timeCreated: 1529098161
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Baskerville BT
+  fontNames:
+  - Baskerville BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cfdc6346ce7fa2342873ad0cd5ccdeff, type: 3}
+  - {fileID: 12800000, guid: 21a4aef9c554daf42929b85d226bea6e, type: 3}
+  - {fileID: 12800000, guid: 81db488d4c1da264daa2d4beb8a019c7, type: 3}
+  - {fileID: 12800000, guid: bb69fdbdb51ed5347ab9694a55c10300, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
